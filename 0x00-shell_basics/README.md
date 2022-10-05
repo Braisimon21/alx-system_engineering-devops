@@ -3,3 +3,4 @@ Display the contents list of your current directory, ls
 script that changes the working directory to the user’s home directory, cd
 Display current directory contents in a long format
 current directory contents, including hidden file, ls -al
+current directory contents, ls -lna
