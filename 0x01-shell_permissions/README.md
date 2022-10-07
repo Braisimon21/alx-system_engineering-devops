@@ -7,3 +7,4 @@ a script that adds execute permission to the owner and the group owner, and read
 a script that adds execution permission to the owner, the group owner and the other users, to the file hello, chmod a+x hello
 a script that sets the permission to the file hello as follows, chmod 007 hello
 a script that sets the mode of the file hello to this, chmod 753 hello
+a script that sets the mode of the file hello the same as olleh’s mode, chmod --reference=olleh hello
