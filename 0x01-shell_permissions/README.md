@@ -11,3 +11,5 @@ a script that sets the mode of the file hello the same as olleh’s mode, chmod 
 a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed, chmod a+X *
 a script that creates a directory called my_dir with permissions 751 in the working directory, mkdir -m 751 dir_holberton
 a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory, chown vicent:staff *
+a script that changes the owner and the group owner of _hello to vincent and staff respectively, chome -h vincent:staff _hello
+a script that changes the owner and the group owner of _hello to vincent and staff respectively, chown -h vincent:staff _hello
